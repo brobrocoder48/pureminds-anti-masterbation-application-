@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/expo/expo/main/docs/public/static/images/expo-logo.png" alt="Expo Logo" width="100"/>
+  <img src="https://www.vectorlogo.zone/logos/expojs/expojs-icon.svg" alt="Expo Logo" width="100"/>
   <h1>🧠 PureMinds</h1>
   <p><strong>Break free from addiction, rebuild your mind, and reclaim your life.</strong></p>
 
