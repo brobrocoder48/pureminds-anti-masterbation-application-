@@ -46,9 +46,9 @@ Because addiction recovery requires absolute privacy, **PureMinds never sends yo
       <td align="center"><b>Activity Redirection</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="250" /></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Emergency+Modal" width="250" /></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Activities+List" width="250" /></td>
+      <td><img src="./assets/screenshots/dashboard.png" width="250" /></td>
+      <td><img src="./assets/screenshots/emergency.png" width="250" /></td>
+      <td><img src="./assets/screenshots/activities.png" width="250" /></td>
     </tr>
     <tr>
       <td align="center"><b>Guided Breathing</b></td>
@@ -56,9 +56,9 @@ Because addiction recovery requires absolute privacy, **PureMinds never sends yo
       <td align="center"><b>Achievements</b></td>
     </tr>
     <tr>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Breathe+Screen" width="250" /></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Journal+Screen" width="250" /></td>
-      <td><img src="https://via.placeholder.com/250x500.png?text=Progress+Screen" width="250" /></td>
+      <td><img src="./assets/screenshots/breathe.png" width="250" /></td>
+      <td><img src="./assets/screenshots/journal.png" width="250" /></td>
+      <td><img src="./assets/screenshots/progress.png" width="250" /></td>
     </tr>
   </table>
 </div>
