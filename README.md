@@ -36,7 +36,6 @@ Because addiction recovery requires absolute privacy, **PureMinds never sends yo
 
 ## 📸 Screenshots
 
-*(Replace these placeholders with real screenshots from your phone! Upload the images to a folder in this repo, e.g., `/assets/screenshots/`)*
 
 <div align="center">
   <table>
